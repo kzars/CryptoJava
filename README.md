@@ -3,7 +3,7 @@ Lietišķās kriptogrāfijas MD
 
 ## Par lietotni
 
-Programma veidota izmantojot JAVA programmēšanas valodu. Tai ir izvedota GUI un trīs failu sistēma, ar kuriem var operēt šifrējot un atšifrējot datus.
+Programma veidota izmantojot JAVA programmēšanas valodu. Tai ir izvedota GUI un trīs failu sistēma, ar kuriem var operēt šifrējot un atšifrējot datus izmantojot javax.crypto bibliotēku.
 
 ### Priekšnosacījumi
 
